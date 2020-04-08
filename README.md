@@ -35,7 +35,7 @@ Question for consideration:
 * Install Anaconda and use Jupyter Notebook.
 
 ## Technologies Used
-The language used was Python with the aid of NumPy and Pandas Libraries for analysis.
+The language used was Python with the aid of NumPy and Pandas Libraries as well as SQL for analysis.
 
 ### License
 **MIT (c) 2020 Patrick Atak**
