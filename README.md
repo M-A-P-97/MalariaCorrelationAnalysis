@@ -1,6 +1,6 @@
 # Malaria Correlation Analysis
 #### Health Spending by County Dataset Analysis, 8/4/2020
-#### By **Patrick Mariwa Atak, Wambui Kuria, Kahiga Kamiru and Dennis Babu**
+#### By **M A P**
 ## Description
 This is a detailed description and analysis of the Health Spending by each county dataset. 
 The analysis is meant to answer a number of questions as well as be used to make recommendations. 
@@ -38,4 +38,4 @@ Question for consideration:
 The language used was Python with the aid of NumPy and Pandas Libraries as well as SQL for analysis.
 
 ### License
-**MIT (c) 2020 Patrick Atak**
+**MIT (c) 2020 M A P**
